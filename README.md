@@ -23,7 +23,7 @@ There are 5 different environment configurations [dev, local, qa, stage, and pro
 
 *	log4j configured to capture the test execution logs
 *	Configuration file is located at //config/log4j.xml
-*	Execution log is captured in the //log/Automation_Execution.log
+
 
   Screenshots:
 ---------------
