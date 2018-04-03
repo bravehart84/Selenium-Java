@@ -2,7 +2,7 @@ package pages;
 
 /*******************************************************************************************
  * Page Factory class Template
- * @author Shirish Kawatkar
+ * @author Ade Ige
  *******************************************************************************************/
 
 import org.openqa.selenium.WebDriver;
