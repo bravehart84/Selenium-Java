@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" ?>
+n<?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE log4j:configuration SYSTEM "log4j.dtd">
 <log4j:configuration debug="false" xmlns:log4j='http://jakarta.apache.org/log4j/'>
 
@@ -28,7 +28,7 @@
 	</appender>
 
 	<!-- Application Loggers -->
-	<logger name="ShirishkTestAutomation">
+	<logger name="SeleniumTestAutomation">
 		<level value="info" />
 	</logger>
 
@@ -39,15 +39,4 @@
 		<appender-ref ref="file" />
 	</root>
 
-	<!--logger Order-->
-	<!--<renderer></renderer>
-	<appender></appender>
-	<plugin></plugin>
-	<logger></logger>
-	<category></category>
-	<root></root>
-	<loggerfactory></loggerfactory>
-	<categoryfactory></categoryfactory>-->
-
-
-</log4j:configuration>
+	<!--logger Order
